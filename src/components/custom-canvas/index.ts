@@ -1,6 +1,6 @@
 import { ComponentMapping } from '@uniformdev/csk-components/utils/createComponentResolver';
-import { ContentCardComponent } from './ContentCard';
 import Container from './Container';
+import { ContentCardComponent } from './ContentCard';
 import CustomComponent from './CustomComponent';
 import Page from '../canvas/Page';
 
