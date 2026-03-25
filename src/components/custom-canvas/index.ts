@@ -1,7 +1,7 @@
 import { ComponentMapping } from '@uniformdev/csk-components/utils/createComponentResolver';
+import { ContentCardComponent } from './ContentCard';
 import Container from './Container';
 import CustomComponent from './CustomComponent';
-import { ContentCardComponent } from './ContentCard';
 import Page from '../canvas/Page';
 
 // Here, you can add your own component or customize an existing CSK component with your logic or styles.
